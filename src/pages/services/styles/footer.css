@@ -1,0 +1,62 @@
+#footer{
+    background-color: black;
+    width: auto;
+    height: 400px;
+    border-top: 3px solid goldenrod;
+
+    display: grid;
+    grid-auto-columns: 4px;
+}
+
+input{
+    padding: 10px;
+    margin-bottom: 10px;
+    margin-top: 8px;
+    background-color: goldenrod;
+    color: black;
+
+    border-radius: 5px;
+    margin-left: 1145px;
+}
+
+textarea{
+    margin-left: 1146px;
+    padding: 5px;
+    font-family: Inter, sans-serif;
+}
+
+.btn{
+    width: 80px;
+    height: 30px;
+    margin-left: 1200px;
+
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.btn:hover{
+    background-color: goldenrod;
+    border-radius: 5px;
+}
+
+.already_have_an_account{
+    /*background-color: white;*/
+    width: 220px;
+    height: 20px;
+
+    display: flex;
+
+    margin-left: 1150px;
+    color: white;
+}
+
+.already{
+    font-size: 12px;
+    margin-bottom: 10px;
+}
+
+#log_in{
+    margin-left: 10px;
+    font-size: 13px;
+    color: white;
+}

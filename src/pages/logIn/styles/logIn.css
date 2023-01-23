@@ -1,0 +1,26 @@
+.login {
+
+
+}
+
+.ff{
+    margin: 300px 50px 50px;
+}
+
+.fff{
+
+    margin: 50px;
+}
+
+.btn_lgn{
+    margin-right: -4px;
+    width: 80px;
+    height: 40px;
+
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.btn_lgn:hover{
+    background-color: goldenrod;
+}

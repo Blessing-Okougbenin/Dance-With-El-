@@ -1,0 +1,76 @@
+.topNav{
+    position: fixed;
+    top: 0;
+    left: 0;
+
+    background-color: goldenrod;
+    display: flex;
+
+    width: 100%;
+    height: 25%;
+    border-bottom: 3px solid black;
+}
+
+.logo{
+    width: 100px;
+    /*background-color: blue;*/
+    display: flex;
+    margin: 30px;
+}
+.o, .n, .e, .i{
+    background-color: black;
+    margin: 10px;
+}
+
+.o{
+    width: 100px;
+    height: 8px;
+}
+.n{
+    width: 20px;
+    height: 12px;
+    margin-top: 30%;
+    margin-left: -50px;
+}
+.e{
+    width: 20px;
+    height: 12px;
+    margin-top: 45px;
+}
+.i{
+    width: 20px;
+    height: 12px;
+    margin-top: 65px;
+}
+
+
+.nav{
+    display: flex;
+    margin-left: 40%;
+    margin-top: 3%;
+    font-family: Bahnschrift, sans-serif;
+
+    background-color: white;
+    width: 1200px;
+    height: 50px;
+    padding: 10px;
+
+    border-right: 356px solid white;
+}
+.nav > p{
+
+    margin-left: 50px;
+    margin-top: 6px;
+}
+
+.signUp{
+    background-color: black;
+    color: white;
+    margin-top: 129px;
+    margin-left: -182px;
+    width: 78px;
+    height: 38px;
+    border-radius: 5px;
+    font-weight: bold;
+    cursor: pointer;
+}

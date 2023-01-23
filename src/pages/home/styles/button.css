@@ -1,0 +1,18 @@
+.clickMe{
+    font-family: Inter, sans-serif;
+    font-weight: bold;
+    width: 8%;
+    height: 38px;
+    margin-top: 20%;
+    border-radius: 12px;
+
+    background-color: black;
+}
+
+#me{
+    color: blue;
+}
+
+.clickMe:hover{
+    background-color: white;
+}
