@@ -23,24 +23,27 @@
 }
 
 .o{
-    width: 100px;
+    width: 90px;
     height: 8px;
 }
-.n{
-    width: 20px;
-    height: 12px;
-    margin-top: 30%;
-    margin-left: -50px;
-}
+
 .e{
     width: 20px;
-    height: 12px;
-    margin-top: 45px;
+    height: 9px;
+    margin-top: 20px;
+    margin-left: 30px;
 }
 .i{
     width: 20px;
-    height: 12px;
-    margin-top: 65px;
+    height: 9px;
+    margin-top: 20px;
+    margin-left: 50px;
+}
+.n{
+    width: 20px;
+    height: 9px;
+    margin-top: 20px;
+    margin-left: 70px;
 }
 
 

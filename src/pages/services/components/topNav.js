@@ -6,14 +6,16 @@ export default function TopNav () {
     return(
         <div className={"topNav"}>
             <div className={"logo"}>
-                <div className={"o"}></div>
-                <div className={"n"}></div>
-                <div className={"e"}></div>
-                <div className={"i"}></div>
+                <Link to={'/'}>
+                    <div className={"o"}></div>
+                    <div className={"e"}></div>
+                    <div className={"i"}></div>
+                    <div className={"n"}></div>
+                </Link>
             </div>
 
             <div className={"nav"}>
-                <p>Experience</p>
+                <p>Resources</p>
                 <p>Service</p>
                 <p>About Us</p>
             </div>
