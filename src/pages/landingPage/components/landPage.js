@@ -1,10 +1,12 @@
 import React from 'react'
-import Button from "./button";
+import TopImage from "./topImage";
+import Eli from './eli'
 
 export default function LandPage () {
     return(
         <div className={'landing_page'}>
-            <Button/>
+            <TopImage/>
+            <Eli/>
         </div>
     )
 }
