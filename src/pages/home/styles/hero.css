@@ -1,8 +1,94 @@
-.hero{
-    background-image: url("../../../asset/images/talent-management-hr--.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
-    width: auto;
-    height: 590px;
-    margin-top: 12.3%;
+.line_one{
+    display: flex;
+}
+.ballet_kids_div{
+    width: 750px;
+    height: 650px;
+    background-color: goldenrod;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+.ballet_kids_img{
+    width: 600px;
+    height: 300px;
+    margin-top: 185px;
+
+}
+
+.ballet_kids_text{
+    text-align: left;
+    padding: 20px;
+    margin-left: 55px;
+    color: white;
+}
+
+.batchata_div{
+    width: 550px;
+    height: 850px;
+    background-color: goldenrod;
+    margin-top: 50px;
+    margin-left: 100px;
+}
+
+.batchata_img{
+    width: 400px;
+    height: 500px;
+    margin-top: 185px;
+
+}
+
+.batchata_text{
+    text-align: left;
+    padding: 20px;
+    margin-left: 55px;
+    color: white;
+}
+
+.line_two{
+    display: flex;
+}
+
+.dancingWoman_div{
+    width: 550px;
+    height: 750px;
+    background-color: goldenrod;
+    margin-top: -40px;
+    margin-left: 50px;
+}
+
+.dancingWoman_img{
+    width: 400px;
+    height: 500px;
+    margin-top: 95px;
+
+}
+
+.dancingWoman_text{
+    text-align: left;
+    padding: 20px;
+    margin-left: 55px;
+    color: white;
+}
+
+.WomenDancingContemporary_div{
+    width: 750px;
+    height: 750px;
+    background-color: goldenrod;
+    margin-top: 100px;
+    margin-left: 100px;
+}
+
+.WomenDancingContemporary_img{
+    width: 650px;
+    height: 500px;
+    margin-top: 95px;
+
+}
+
+.WomenDancingContemporary_text{
+    text-align: left;
+    padding: 20px;
+    margin-left: 30px;
+    color: white;
 }
