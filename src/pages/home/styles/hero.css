@@ -92,3 +92,10 @@
     margin-left: 30px;
     color: white;
 }
+
+.service{
+    margin-top: 150px;
+    font-size: 50px;
+    font-family: Inter,sans-serif;
+    font-kerning: revert;
+}

@@ -1,11 +1,12 @@
 .instructor{
-    margin-top: 70px;
+    padding-top: 10px;
     margin-left: -1050px;
+    color: black;
 }
 .elText_div{
     width: 300px;
-    height: 950px;
-    margin-top: 11px;
+    height: 960px;
+    margin-top: 40px;
     margin-left:160px;
     background-color: whitesmoke;
     border-radius: 5px;
@@ -17,7 +18,7 @@
     border-top-left-radius: 5px;
     border-top-right-radius: 5px;
 }
-.name{
+.el_name{
     margin-top: 10px;
 }
 .about_el{
