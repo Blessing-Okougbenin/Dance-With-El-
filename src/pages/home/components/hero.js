@@ -1,9 +1,9 @@
 import React from "react";
 import '../styles/hero.css'
-import BalletKids from '../../../asset/images/Ballet-kids.jpg'
-import SalsaBatchata from '../../../asset/images/Salsa-Bachata-Cha-Cha-Rumba.jpg'
-import DancingWoman from '../../../asset/images/dancing-woman-black-dress-contemporary.jpg'
-import WomenDancingContemporary from '../../../asset/images/Women-Dancing-Contemporary-On-Stage.jpg'
+import BalletKids from '../../../asset/images/ballet-rex-ed.jpg'
+import SalsaBatchata from '../../../asset/images/Urban2.jpg'
+import DancingWoman from '../../../asset/images/artist.jpg'
+import WomenDancingContemporary from '../../../asset/images/Urban2.jpg'
 
 export default function Hero () {
     return(
