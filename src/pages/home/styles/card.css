@@ -2,10 +2,11 @@
     background-color: white;
     width: 700px;
     height: 500px;
+    /*margin-top: 40px;*/
 }
 
 .card_list{
-    display: flex;
+    /*display: flex;*/
 }
 
 .daily{
@@ -14,19 +15,20 @@
 
 .card{
     background-color: black;
-    width: 300px;
-    height: 300px;
+    width: 1000px;
+    height: 380px;
     color: white;
-    margin-left: 25%;
+    margin-left: 37%;
     margin-top: 10%;
     border-radius: 20px;
     box-shadow: 4px 5px 10px 1px rgba(0, 33, 454, 3223);
 }
 
 .image{
-    width: 180px;
-    height: 140px;
+    width: 280px;
+    height: 180px;
     border-radius: 10px;
+    margin-left: -570px;
 
     transition: all .2s ease-in-out;
 }
@@ -36,7 +38,46 @@
 }
 
 .name{
-    font-size: 15px;
+    font-size: 35px;
+    font-family: Century, sans-serif;
+    margin-top: 35px;
+    margin-left: -649px;
+}
+
+.text{
+    width: 450px;
+    margin-left: 420px;
+    margin-top: -300px;
+    text-align: left;
+    font-family: Century,sans-serif;
+    font-size: 20px;
+    line-height: 30px;
+    color: goldenrod;
+}
+
+.price{
+    margin-top: 30px;
+    margin-left: -685px;
+}
+
+.register{
+    padding: 10px;
+    width: 120px;
+    background-color: black;
+    color: white;
+
     font-family: Inter, sans-serif;
-    margin-top: 10%;
+    font-weight: bold;
+    font-style: italic;
+    margin-left: 800px;
+
+    margin-top: -10px;
+    border: none;
+    border-radius: 9px;
+
+    cursor: pointer;
+}
+
+.register:hover{
+    background-color: blue;
 }

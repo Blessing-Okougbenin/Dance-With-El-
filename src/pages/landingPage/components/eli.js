@@ -10,7 +10,7 @@ export default function Eli () {
             <div className={'elText_div'}>
                 <img src={Elijah} className={'el'} alt={'El'}/>
 
-                <h2 className={'name'}>Elijah Okougbenin <br/>(El D SI)</h2>
+                <h2 className={'el_name'}>Elijah Okougbenin <br/>(El D SI)</h2>
                 <p className={'about_el'}>Is a professional dancer and instructor from Lagos Nigeria.
                     I started my dance career at the age of 10, <br/>had a whole lot of experience with different instructors,<br/>
                     but here comes the amazing part, I found myself learning different genre of dance. <br/>When I started it wasn't easy at all but

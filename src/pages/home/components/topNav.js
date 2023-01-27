@@ -15,9 +15,12 @@ export default function TopNav () {
             </div>
 
             <div className={"nav"}>
-                <p>Resources</p>
-                <p>Service</p>
-                <p>About Us</p>
+                <Link>Resources</Link>
+
+                <Link to={'#service'} style={{textDecoration: 'none'}}>Service</Link>
+
+
+                <Link>About Us</Link>
             </div>
 
             <Link to={'#footer'}>

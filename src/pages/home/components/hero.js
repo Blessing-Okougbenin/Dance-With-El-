@@ -50,7 +50,9 @@ export default function Hero () {
                         The very first reason is for the good mental health of the child, it keeps them smart and effective at all time.
                     </p>
                 </div>
+
             </div>
+            <h1 id={'service'}>OUR SERVICES</h1>
         </div>
     )
 }
