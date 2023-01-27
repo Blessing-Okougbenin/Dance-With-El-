@@ -52,7 +52,7 @@ export default function Hero () {
                 </div>
 
             </div>
-            <h1 id={'service'}>OUR SERVICES</h1>
+            <h1 id={'ourServices'}>OUR SERVICES</h1>
         </div>
     )
 }

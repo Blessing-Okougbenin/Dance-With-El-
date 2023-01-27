@@ -46,7 +46,7 @@
 }
 
 
-.nav{
+.nav {
     display: flex;
     margin-left: 40%;
     margin-top: 3%;
@@ -56,14 +56,17 @@
     background-color: white;
     width: 1200px;
     height: 50px;
-    padding: 10px;
+    padding-top: 17px;
+    padding-left: 15px;
 
     border-right: 356px solid white;
 }
-.nav > p{
 
-    margin-left: 50px;
-    margin-top: 6px;
+.service{
+    margin-top: 1px;
+    font-size: 14px;
+    padding-left: 50px;
+    padding-right: 50px;
 }
 
 .signUp{
