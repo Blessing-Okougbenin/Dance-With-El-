@@ -15,12 +15,12 @@ export default function TopNav () {
             </div>
 
             <div className={"nav"}>
-                <Link>Resources</Link>
+                <Link className={'resources'} style={{textDecoration: 'none'}}>Resources</Link>
 
-                <Link to={'#service'} style={{textDecoration: 'none'}}>Service</Link>
+                <Link to={'#ourServices'} className={'service'} style={{textDecoration: 'none'}}>Service</Link>
 
 
-                <Link>About Us</Link>
+                <Link className={'aboutUs'} style={{textDecoration: 'none'}}>About Us</Link>
             </div>
 
             <Link to={'#footer'}>

@@ -93,9 +93,7 @@
     color: white;
 }
 
-.service{
-    margin-top: 150px;
+#ourServices{
+    margin-top: 60px;
     font-size: 50px;
-    font-family: Inter,sans-serif;
-    font-kerning: revert;
 }
